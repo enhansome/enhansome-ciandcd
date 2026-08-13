@@ -1,0 +1,299 @@
+{
+  "items": [
+    {
+      "description": "The system for software build and release, continuous integration and continuous delivery",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Luigi",
+          "description": "Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-18T11:15:46Z",
+            "owner": "spotify",
+            "repo": "luigi",
+            "stars": 18764
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP Censor",
+          "description": "Open source self-hosted continuous integration server for PHP projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-31T07:19:45Z",
+            "owner": "php-censor",
+            "repo": "php-censor",
+            "stars": 689
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimpleCI",
+          "description": "Docker-based self-hosted ci system. Supports distributed build cache, external providers (GCE), real-time build log, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-12-06T14:39:41Z",
+            "owner": "lewbor",
+            "repo": "simpleci",
+            "stars": 69
+          }
+        }
+      ],
+      "title": "Build And Release System"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "veewee",
+          "description": "Easing the building of vagrant boxes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2018-09-17T07:21:35Z",
+            "owner": "jedi4ever",
+            "repo": "veewee",
+            "stars": 4262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "T.A.D.S. boilerplate",
+          "description": "A boilerplate to setup a Docker Swarm environment with Ansible",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2025-02-06T08:50:52Z",
+            "owner": "thomvaill",
+            "repo": "tads-boilerplate",
+            "stars": 779
+          }
+        }
+      ],
+      "title": "Dev env"
+    },
+    {
+      "description": "The tools for software delivery",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "murder",
+          "description": "Large scale server deploys using BitTorrent and the BitTornado library from twitter.com",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2017-01-04T02:33:40Z",
+            "owner": "lg",
+            "repo": "murder",
+            "stars": 2515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "herd",
+          "description": "A single-command bittorrent distribution system, based on Twitter's Murder",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2016-10-21T06:16:30Z",
+            "owner": "russss",
+            "repo": "Herd",
+            "stars": 407
+          }
+        }
+      ],
+      "title": "Delivery"
+    },
+    {
+      "description": "Linux shell, perl, python",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-python",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T06:11:04Z",
+            "owner": "vinta",
+            "repo": "awesome-python",
+            "stars": 313663
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-sysadmin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-26T23:45:17Z",
+            "owner": "kahun",
+            "repo": "awesome-sysadmin",
+            "stars": 24347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-perl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2024-08-07T13:32:26Z",
+            "owner": "hachiojipm",
+            "repo": "awesome-perl",
+            "stars": 710
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-shell",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2014-10-11T02:55:54Z",
+            "owner": "itech001",
+            "repo": "awesome-shell",
+            "stars": 41
+          }
+        }
+      ],
+      "title": "OS And Shell"
+    },
+    {
+      "description": "Other amazingly awesome lists can be found in",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-30T18:21:16Z",
+            "owner": "sindresorhus",
+            "repo": "awesome",
+            "stars": 495118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-docker",
+          "description": "*awesome-cicd",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-29T22:24:33Z",
+            "owner": "veggiemonk",
+            "repo": "awesome-docker",
+            "stars": 36627
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-awesomeness",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-06-02T22:46:41Z",
+            "owner": "bayandin",
+            "repo": "awesome-awesomeness",
+            "stars": 33603
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ci tools compare 3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-29T08:45:17Z",
+            "owner": "ligurio",
+            "repo": "awesome-ci",
+            "stars": 4130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-awesome",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-31T23:19:05Z",
+            "owner": "emijrp",
+            "repo": "awesome-awesome",
+            "stars": 3194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sysadmin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-06-26T08:36:23Z",
+            "owner": "itech001",
+            "repo": "awesome-sysadmin",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ci tools compare2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-06-02T07:57:30Z",
+            "owner": "cicdops",
+            "repo": "Continuous-Integration-services",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Other Awesome Lists"
+    },
+    {
+      "description": "Welcome To add new items about continuous integration and continuous delivery.my email is: itech001@126.com.",
+      "items": [],
+      "title": "Contact"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T07:02:16.671Z",
+    "original_repository": "cicdops/awesome-ciandcd",
+    "original_repository_sha": "c5e6fcac6b728a6f865cfb9cd04c28d072aa85a0",
+    "enhanced_repository": "enhansome/enhansome-ciandcd",
+    "enhanced_repository_description": null,
+    "title": "Awesome ciandcd with stars"
+  }
+}
