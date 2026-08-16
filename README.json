@@ -14,7 +14,7 @@
             "last_commit": "2026-07-18T11:15:46Z",
             "owner": "spotify",
             "repo": "luigi",
-            "stars": 18763
+            "stars": 18764
           }
         },
         {
@@ -130,7 +130,7 @@
             "last_commit": "2026-08-05T06:11:04Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 314020
+            "stars": 314197
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-06-30T18:21:16Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 495866
+            "stars": 496221
           }
         },
         {
@@ -206,7 +206,7 @@
             "last_commit": "2026-07-29T22:24:33Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36642
+            "stars": 36650
           }
         },
         {
@@ -220,7 +220,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33608
+            "stars": 33610
           }
         },
         {
@@ -248,7 +248,7 @@
             "last_commit": "2024-07-31T23:19:05Z",
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3197
+            "stars": 3198
           }
         },
         {
@@ -289,7 +289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T05:57:35.486Z",
+    "last_updated": "2026-08-16T05:59:04.390Z",
     "original_repository": "cicdops/awesome-ciandcd",
     "original_repository_sha": "c5e6fcac6b728a6f865cfb9cd04c28d072aa85a0",
     "enhanced_repository": "enhansome/enhansome-ciandcd",
