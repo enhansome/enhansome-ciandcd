@@ -14,7 +14,7 @@
             "last_commit": "2026-07-18T11:15:46Z",
             "owner": "spotify",
             "repo": "luigi",
-            "stars": 18764
+            "stars": 18763
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-05-31T07:19:45Z",
             "owner": "php-censor",
             "repo": "php-censor",
-            "stars": 689
+            "stars": 688
           }
         },
         {
@@ -127,10 +127,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-05T06:11:04Z",
+            "last_commit": "2026-08-16T13:31:43Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 314197
+            "stars": 314367
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-06-30T18:21:16Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 496221
+            "stars": 496684
           }
         },
         {
@@ -206,7 +206,7 @@
             "last_commit": "2026-07-29T22:24:33Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36650
+            "stars": 36649
           }
         },
         {
@@ -289,7 +289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T05:59:04.390Z",
+    "last_updated": "2026-08-17T06:03:55.117Z",
     "original_repository": "cicdops/awesome-ciandcd",
     "original_repository_sha": "c5e6fcac6b728a6f865cfb9cd04c28d072aa85a0",
     "enhanced_repository": "enhansome/enhansome-ciandcd",
