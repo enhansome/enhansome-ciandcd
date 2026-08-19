@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5888353,
             "language": "Python",
             "last_commit": "2026-07-18T11:15:46Z",
             "owner": "spotify",
             "repo": "luigi",
-            "stars": 18765
+            "stars": 18766
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78023529,
             "language": "PHP",
             "last_commit": "2026-05-31T07:19:45Z",
             "owner": "php-censor",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45815634,
             "language": "Java",
             "last_commit": "2022-12-06T14:39:41Z",
             "owner": "lewbor",
@@ -49,7 +52,7 @@
       "title": "Build And Release System"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1066222,
             "language": "Shell",
             "last_commit": "2018-09-17T07:21:35Z",
             "owner": "jedi4ever",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 218020487,
             "language": "Shell",
             "last_commit": "2025-02-06T08:50:52Z",
             "owner": "thomvaill",
@@ -92,6 +97,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 481811,
             "language": "Ruby",
             "last_commit": "2017-01-04T02:33:40Z",
             "owner": "lg",
@@ -106,6 +112,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1546219,
             "language": "Python",
             "last_commit": "2016-10-21T06:16:30Z",
             "owner": "russss",
@@ -126,11 +133,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21289110,
             "language": "Python",
             "last_commit": "2026-08-16T13:31:43Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 314755
+            "stars": 314850
           }
         },
         {
@@ -140,11 +148,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16677706,
             "language": null,
             "last_commit": "2024-03-26T23:45:17Z",
             "owner": "kahun",
             "repo": "awesome-sysadmin",
-            "stars": 24348
+            "stars": 24349
           }
         },
         {
@@ -154,6 +163,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21791812,
             "language": "Perl",
             "last_commit": "2024-08-07T13:32:26Z",
             "owner": "hachiojipm",
@@ -168,6 +178,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25191000,
             "language": null,
             "last_commit": "2014-10-11T02:55:54Z",
             "owner": "itech001",
@@ -188,11 +199,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21737465,
             "language": null,
             "last_commit": "2026-08-18T13:28:50Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 497520
+            "stars": 497657
           }
         },
         {
@@ -202,11 +214,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24297122,
             "language": null,
             "last_commit": "2026-08-18T20:54:04Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36666
+            "stars": 36668
           }
         },
         {
@@ -216,6 +229,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21600440,
             "language": "Ruby",
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
@@ -230,6 +244,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25857175,
             "language": null,
             "last_commit": "2026-07-29T08:45:17Z",
             "owner": "ligurio",
@@ -244,6 +259,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21388604,
             "language": null,
             "last_commit": "2024-07-31T23:19:05Z",
             "owner": "emijrp",
@@ -258,6 +274,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25190811,
             "language": null,
             "last_commit": "2017-06-26T08:36:23Z",
             "owner": "itech001",
@@ -272,6 +289,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41528535,
             "language": null,
             "last_commit": "2015-06-02T07:57:30Z",
             "owner": "cicdops",
@@ -281,16 +299,12 @@
         }
       ],
       "title": "Other Awesome Lists"
-    },
-    {
-      "description": "Welcome To add new items about continuous integration and continuous delivery.my email is: itech001@126.com.",
-      "items": [],
-      "title": "Contact"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T06:00:42.395Z",
+    "last_updated": "2026-08-19T12:21:21.008Z",
     "original_repository": "cicdops/awesome-ciandcd",
+    "original_repository_id": 27022152,
     "original_repository_sha": "c5e6fcac6b728a6f865cfb9cd04c28d072aa85a0",
     "enhanced_repository": "enhansome/enhansome-ciandcd",
     "enhanced_repository_description": null,
