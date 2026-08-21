@@ -15,7 +15,7 @@
             "last_commit": "2026-07-18T11:15:46Z",
             "owner": "spotify",
             "repo": "luigi",
-            "stars": 18766
+            "stars": 18765
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2026-08-16T13:31:43Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 315018
+            "stars": 315199
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2024-08-07T13:32:26Z",
             "owner": "hachiojipm",
             "repo": "awesome-perl",
-            "stars": 710
+            "stars": 709
           }
         },
         {
@@ -204,7 +204,7 @@
             "last_commit": "2026-08-18T13:28:50Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 497901
+            "stars": 498358
           }
         },
         {
@@ -219,7 +219,7 @@
             "last_commit": "2026-08-19T15:33:40Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36670
+            "stars": 36675
           }
         },
         {
@@ -234,7 +234,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33610
+            "stars": 33614
           }
         },
         {
@@ -249,7 +249,7 @@
             "last_commit": "2026-07-29T08:45:17Z",
             "owner": "ligurio",
             "repo": "awesome-ci",
-            "stars": 4131
+            "stars": 4133
           }
         },
         {
@@ -264,7 +264,7 @@
             "last_commit": "2024-07-31T23:19:05Z",
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3199
+            "stars": 3201
           }
         },
         {
@@ -302,7 +302,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T06:00:50.565Z",
+    "last_updated": "2026-08-21T06:02:32.737Z",
     "original_repository": "cicdops/awesome-ciandcd",
     "original_repository_id": 27022152,
     "original_repository_sha": "c5e6fcac6b728a6f865cfb9cd04c28d072aa85a0",
