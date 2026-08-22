@@ -135,10 +135,10 @@
             "archived": false,
             "id": 21289110,
             "language": "Python",
-            "last_commit": "2026-08-16T13:31:43Z",
+            "last_commit": "2026-08-21T14:25:23Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 315199
+            "stars": 315393
           }
         },
         {
@@ -201,10 +201,10 @@
             "archived": false,
             "id": 21737465,
             "language": null,
-            "last_commit": "2026-08-18T13:28:50Z",
+            "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 498358
+            "stars": 498724
           }
         },
         {
@@ -219,7 +219,7 @@
             "last_commit": "2026-08-19T15:33:40Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36675
+            "stars": 36682
           }
         },
         {
@@ -234,7 +234,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33614
+            "stars": 33617
           }
         },
         {
@@ -249,7 +249,7 @@
             "last_commit": "2026-07-29T08:45:17Z",
             "owner": "ligurio",
             "repo": "awesome-ci",
-            "stars": 4133
+            "stars": 4134
           }
         },
         {
@@ -264,7 +264,7 @@
             "last_commit": "2024-07-31T23:19:05Z",
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3201
+            "stars": 3200
           }
         },
         {
@@ -302,7 +302,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T06:02:32.737Z",
+    "last_updated": "2026-08-22T05:58:41.598Z",
     "original_repository": "cicdops/awesome-ciandcd",
     "original_repository_id": 27022152,
     "original_repository_sha": "c5e6fcac6b728a6f865cfb9cd04c28d072aa85a0",
