@@ -88,6 +88,69 @@
       "title": "Dev env"
     },
     {
+      "description": "Build tools",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "do",
+          "description": "The simplest build tool on earth. Agnostic and multipurpose build tool and a build file. Tries to be better than the usual shell hell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 139195792,
+            "language": "Shell",
+            "last_commit": "2025-10-29T12:28:47Z",
+            "owner": "8gears",
+            "repo": "do.sh",
+            "stars": 41
+          }
+        }
+      ],
+      "title": "Build"
+    },
+    {
+      "description": "Software testing framework and tools",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Macaca",
+          "description": "Automation test solution for native, hybrid, mobile web and web application on mobile and desktop platforms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 53995946,
+            "language": null,
+            "last_commit": "2022-09-18T13:23:18Z",
+            "owner": "alibaba",
+            "repo": "macaca",
+            "stars": 3185
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "The tools for software package and installation",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fpm",
+          "description": "Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1217404,
+            "language": "Ruby",
+            "last_commit": "2026-08-20T20:42:34Z",
+            "owner": "jordansissel",
+            "repo": "fpm",
+            "stars": 11499
+          }
+        }
+      ],
+      "title": "Package"
+    },
+    {
       "description": "The tools for software delivery",
       "items": [
         {
@@ -135,10 +198,10 @@
             "archived": false,
             "id": 21289110,
             "language": "Python",
-            "last_commit": "2026-08-23T08:02:10Z",
+            "last_commit": "2026-08-24T06:42:58Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 315732
+            "stars": 315798
           }
         },
         {
@@ -153,7 +216,7 @@
             "last_commit": "2024-03-26T23:45:17Z",
             "owner": "kahun",
             "repo": "awesome-sysadmin",
-            "stars": 24352
+            "stars": 24351
           }
         },
         {
@@ -204,7 +267,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499368
+            "stars": 499509
           }
         },
         {
@@ -219,7 +282,7 @@
             "last_commit": "2026-08-19T15:33:40Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36699
+            "stars": 36701
           }
         },
         {
@@ -302,7 +365,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T06:07:06.664Z",
+    "last_updated": "2026-08-24T14:06:17.893Z",
     "original_repository": "cicdops/awesome-ciandcd",
     "original_repository_id": 27022152,
     "original_repository_sha": "c5e6fcac6b728a6f865cfb9cd04c28d072aa85a0",

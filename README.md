@@ -49,7 +49,7 @@ The theory for continuous integration and continuous deliver
 * [ci/cd pipeline](https://semaphoreci.com/blog/cicd-pipeline)
 * [devopsdays](http://www.devopsdays.org)
 * [ci cheatsheet](https://dzone.com/refcardz/continuous-integration)
-* [devops\_roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 365,272 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-21
+* [devops\_roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 365,301 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-21
 
 ## Build And Release System
 
@@ -178,6 +178,7 @@ Code review tools
 
 Build tools
 
+* [do](https://github.com/8gears/do) ⭐ 41 | 🐛 2 | 🌐 Shell | 📅 2025-10-29  The simplest build tool on earth. Agnostic and multipurpose build tool and a build file. Tries to be better than the usual shell hell.
 * [gnumake](http://www.gnu.org/software/make/) GNU Make is a tool which controls the generation of executables and other non-source files of a program from the program's source files
 * [gnuautoconf](http://www.gnu.org/software/autoconf/) Autoconf is an extensible package of M4 macros that produce shell scripts to automatically configure software source code packages
 * [mozillabuildtools](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions)  The Mozilla build system, like the rest of the Mozilla codebase, is cross-platform. It uses traditional Unix-style autoconf and make tools to build the various applications (even on non-unix operating systems)
@@ -189,7 +190,6 @@ Build tools
 * [gradle](http://gradle.org/)   Gradle is build automation evolved. Gradle can automate the building, testing, publishing, deployment and more of software packages or other types of projects such as generated static websites, generated documentation or indeed anything else.
 * [ElectricacCelerator](http://electric-cloud.com/products/electricaccelerator)   Continuous Delivery isn’t continuous if builds and tests take too long to complete. ElectricAccelerator speeds up builds and tests by up to 20X, improving software time to market, infrastructure utilization and developer productivity
 * [SBT](http://www.scala-sbt.org/index.html)  sbt is an open source build tool for Scala and Java projects.
-* [do](https://github.com/8gears/do) ⭐ 41 | 🐛 2 | 🌐 Shell | 📅 2025-10-29  The simplest build tool on earth. Agnostic and multipurpose build tool and a build file. Tries to be better than the usual shell hell.
 
 ## Static Check
 
@@ -226,6 +226,7 @@ Software testing coverage tools
 
 Software testing framework and tools
 
+* [Macaca](https://github.com/alibaba/macaca) ⭐ 3,185 | 🐛 64 | 📅 2022-09-18 Automation test solution for native, hybrid, mobile web and web application on mobile and desktop platforms
 * [Testingautomation](https://en.wikipedia.org/wiki/Test_automation)  test automation wiki page
 * [softwareqatest](http://www.softwareqatest.com) FAQ page
 * [qaforums](http://www.qaforums.com)  SQA Forums
@@ -233,17 +234,16 @@ Software testing framework and tools
 * [selenium](http://www.seleniumhq.org)  Selenium automates browsers
 * [Monkey Test It](https://monkeytest.it) Free automated website tester with CURLable API
 * [Assertible](https://assertible.com) Continuous post deployment testing for GitHub
-* [Macaca](https://github.com/alibaba/macaca) ⭐ 3,185 | 🐛 64 | 📅 2022-09-18 Automation test solution for native, hybrid, mobile web and web application on mobile and desktop platforms
 
 ## Package
 
 The tools for software package and installation
 
+* [fpm](https://github.com/jordansissel/fpm) ⭐ 11,499 | 🐛 790 | 🌐 Ruby | 📅 2026-08-20 Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
 * [installshield](http://www.installshield.com)  World's #1 Software Installation Solution-Build Reliable MSI Installers for Windows Applications
 * [NSIS](http://nsis.sourceforge.net/Main_Page)  NSIS (Nullsoft Scriptable Install System) is a professional open source system to create Windows installers. It is designed to be as small and flexible as possible and is therefore very suitable for internet distribution
 * [rpm](http://rpm.org)  The RPM Package Manager (RPM) is a powerful command line driven package management system capable of installing, uninstalling, verifying, querying, and updating computer software packages
 * [yum](http://yum.baseurl.org)  Yum is an automatic updater and package installer/remover for rpm systems
-* [fpm](https://github.com/jordansissel/fpm) ⭐ 11,500 | 🐛 790 | 🌐 Ruby | 📅 2026-08-20 Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
 * [wix](http://wixtoolset.org/) The most powerful set of tools available to create your Windows installation experience.
 * [packer](https://www.packer.io/)  Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 
@@ -302,8 +302,8 @@ Common used web server
 
 Linux shell, perl, python
 
-* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 315,732 | 🐛 15 | 🌐 Python | 📅 2026-08-23
-* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,352 | 🐛 270 | 📅 2024-03-26
+* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 315,798 | 🐛 17 | 🌐 Python | 📅 2026-08-24
+* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,351 | 🐛 270 | 📅 2024-03-26
 * [awesome-perl](https://github.com/hachiojipm/awesome-perl) ⭐ 709 | 🐛 5 | 🌐 Perl | 📅 2024-08-07
 * [awesome-shell](https://github.com/itech001/awesome-shell/blob/master/README.md) ⭐ 41 | 🐛 0 | 📅 2014-10-11
 
@@ -349,8 +349,8 @@ Conference and submit
 
 Other amazingly awesome lists can be found in
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,368 | 🐛 106 | 📅 2026-08-21
-* [awesome-docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,699 | 🐛 16 | 📅 2026-08-19\
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,509 | 🐛 106 | 📅 2026-08-21
+* [awesome-docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,701 | 🐛 16 | 📅 2026-08-19\
   \*[awesome-cicd](https://github.com/awsomecicd/awesomecicd.git) ⭐ 1 | 🐛 0 | 🌐 Groovy | 📅 2020-08-05
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,620 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02
 * [ci tools compare 3](https://github.com/ligurio/Continuous-Integration-services) ⭐ 4,134 | 🐛 19 | 📅 2026-07-29
