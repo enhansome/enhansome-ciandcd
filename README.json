@@ -15,7 +15,7 @@
             "last_commit": "2026-07-18T11:15:46Z",
             "owner": "spotify",
             "repo": "luigi",
-            "stars": 18765
+            "stars": 18766
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-25T04:08:40Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 316379
+            "stars": 316442
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500361
+            "stars": 500435
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2026-08-19T15:33:40Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36723
+            "stars": 36724
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33628
+            "stars": 33631
           }
         },
         {
@@ -309,7 +309,7 @@
             "archived": false,
             "id": 25857175,
             "language": null,
-            "last_commit": "2026-07-29T08:45:17Z",
+            "last_commit": "2026-08-27T13:23:55Z",
             "owner": "ligurio",
             "repo": "awesome-ci",
             "stars": 4135
@@ -365,7 +365,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:31:52.353Z",
+    "last_updated": "2026-08-27T16:47:06.695Z",
     "original_repository_info": {
       "archived": false,
       "id": 27022152,
