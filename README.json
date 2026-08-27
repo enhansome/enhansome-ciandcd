@@ -141,10 +141,10 @@
             "archived": false,
             "id": 1217404,
             "language": "Ruby",
-            "last_commit": "2026-08-20T20:42:34Z",
+            "last_commit": "2026-08-26T18:54:44Z",
             "owner": "jordansissel",
             "repo": "fpm",
-            "stars": 11501
+            "stars": 11499
           }
         }
       ],
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-25T04:08:40Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 316107
+            "stars": 316379
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2024-03-26T23:45:17Z",
             "owner": "kahun",
             "repo": "awesome-sysadmin",
-            "stars": 24352
+            "stars": 24351
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500000
+            "stars": 500361
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2026-08-19T15:33:40Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36712
+            "stars": 36723
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33624
+            "stars": 33628
           }
         },
         {
@@ -312,7 +312,7 @@
             "last_commit": "2026-07-29T08:45:17Z",
             "owner": "ligurio",
             "repo": "awesome-ci",
-            "stars": 4134
+            "stars": 4135
           }
         },
         {
@@ -365,9 +365,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T06:03:54.999Z",
-    "original_repository": "cicdops/awesome-ciandcd",
-    "original_repository_id": 27022152,
+    "last_updated": "2026-08-27T11:31:52.353Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 27022152,
+      "language": null,
+      "last_commit": "2026-04-14T12:29:54Z",
+      "owner": "cicdops",
+      "repo": "awesome-ciandcd",
+      "stars": 2009
+    },
     "original_repository_sha": "c5e6fcac6b728a6f865cfb9cd04c28d072aa85a0",
     "enhanced_repository": "enhansome/enhansome-ciandcd",
     "enhanced_repository_description": null,
