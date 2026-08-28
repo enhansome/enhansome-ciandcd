@@ -15,8 +15,9 @@
             "last_commit": "2026-07-18T11:15:46Z",
             "owner": "spotify",
             "repo": "luigi",
-            "stars": 18766
-          }
+            "stars": 18769
+          },
+          "first_seen": "2026-08-28T17:41:45.368Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-05-31T07:19:45Z",
             "owner": "php-censor",
             "repo": "php-censor",
-            "stars": 688
-          }
+            "stars": 687
+          },
+          "first_seen": "2026-08-28T17:41:45.368Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "lewbor",
             "repo": "simpleci",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T17:41:45.368Z"
         }
       ],
       "title": "Build And Release System"
@@ -67,7 +70,8 @@
             "owner": "jedi4ever",
             "repo": "veewee",
             "stars": 4263
-          }
+          },
+          "first_seen": "2026-08-28T17:41:45.368Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "thomvaill",
             "repo": "tads-boilerplate",
             "stars": 779
-          }
+          },
+          "first_seen": "2026-08-28T17:41:45.368Z"
         }
       ],
       "title": "Dev env"
@@ -103,7 +108,8 @@
             "owner": "8gears",
             "repo": "do.sh",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T17:41:45.368Z"
         }
       ],
       "title": "Build"
@@ -124,7 +130,8 @@
             "owner": "alibaba",
             "repo": "macaca",
             "stars": 3184
-          }
+          },
+          "first_seen": "2026-08-28T17:41:45.368Z"
         }
       ],
       "title": "Testing"
@@ -145,7 +152,8 @@
             "owner": "jordansissel",
             "repo": "fpm",
             "stars": 11499
-          }
+          },
+          "first_seen": "2026-08-28T17:41:45.368Z"
         }
       ],
       "title": "Package"
@@ -166,7 +174,8 @@
             "owner": "lg",
             "repo": "murder",
             "stars": 2514
-          }
+          },
+          "first_seen": "2026-08-28T17:41:45.368Z"
         },
         {
           "node_type": "item",
@@ -181,7 +190,8 @@
             "owner": "russss",
             "repo": "Herd",
             "stars": 407
-          }
+          },
+          "first_seen": "2026-08-28T17:41:45.368Z"
         }
       ],
       "title": "Delivery"
@@ -201,8 +211,9 @@
             "last_commit": "2026-08-25T04:08:40Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 316442
-          }
+            "stars": 316716
+          },
+          "first_seen": "2026-08-28T17:41:45.368Z"
         },
         {
           "node_type": "item",
@@ -217,7 +228,8 @@
             "owner": "kahun",
             "repo": "awesome-sysadmin",
             "stars": 24351
-          }
+          },
+          "first_seen": "2026-08-28T17:41:45.368Z"
         },
         {
           "node_type": "item",
@@ -232,7 +244,8 @@
             "owner": "hachiojipm",
             "repo": "awesome-perl",
             "stars": 709
-          }
+          },
+          "first_seen": "2026-08-28T17:41:45.368Z"
         },
         {
           "node_type": "item",
@@ -247,7 +260,8 @@
             "owner": "itech001",
             "repo": "awesome-shell",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T17:41:45.368Z"
         }
       ],
       "title": "OS And Shell"
@@ -267,8 +281,9 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500435
-          }
+            "stars": 500793
+          },
+          "first_seen": "2026-08-28T17:41:45.368Z"
         },
         {
           "node_type": "item",
@@ -279,11 +294,12 @@
             "archived": false,
             "id": 24297122,
             "language": null,
-            "last_commit": "2026-08-19T15:33:40Z",
+            "last_commit": "2026-08-27T17:04:16Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36724
-          }
+            "stars": 36735
+          },
+          "first_seen": "2026-08-28T17:41:45.368Z"
         },
         {
           "node_type": "item",
@@ -297,8 +313,9 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33631
-          }
+            "stars": 33633
+          },
+          "first_seen": "2026-08-28T17:41:45.368Z"
         },
         {
           "node_type": "item",
@@ -312,8 +329,9 @@
             "last_commit": "2026-08-27T13:23:55Z",
             "owner": "ligurio",
             "repo": "awesome-ci",
-            "stars": 4135
-          }
+            "stars": 4134
+          },
+          "first_seen": "2026-08-28T17:41:45.368Z"
         },
         {
           "node_type": "item",
@@ -328,7 +346,8 @@
             "owner": "emijrp",
             "repo": "awesome-awesome",
             "stars": 3203
-          }
+          },
+          "first_seen": "2026-08-28T17:41:45.368Z"
         },
         {
           "node_type": "item",
@@ -343,7 +362,8 @@
             "owner": "itech001",
             "repo": "awesome-sysadmin",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T17:41:45.368Z"
         },
         {
           "node_type": "item",
@@ -358,14 +378,15 @@
             "owner": "cicdops",
             "repo": "Continuous-Integration-services",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:41:45.368Z"
         }
       ],
       "title": "Other Awesome Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:47:06.695Z",
+    "last_updated": "2026-08-28T17:41:45.368Z",
     "original_repository_info": {
       "archived": false,
       "id": 27022152,
