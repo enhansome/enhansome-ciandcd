@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.",
+            "homepage": null,
             "id": 5888353,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-18T11:15:46Z",
+            "open_issues": 170,
             "owner": "spotify",
             "repo": "luigi",
-            "stars": 18769
+            "stars": 18768,
+            "topics": [
+              "hadoop",
+              "luigi",
+              "orchestration-framework",
+              "python",
+              "scheduling"
+            ]
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
         },
@@ -26,12 +37,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PHP Censor is an open source self-hosted continuous integration server for PHP projects.",
+            "homepage": "http://php-censor.info",
             "id": 78023529,
             "language": "PHP",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-05-31T07:19:45Z",
+            "open_issues": 23,
             "owner": "php-censor",
             "repo": "php-censor",
-            "stars": 687
+            "stars": 687,
+            "topics": [
+              "ci",
+              "continuous-integration",
+              "database-testing",
+              "hacktoberfest",
+              "php",
+              "php-censor",
+              "phpcensor",
+              "phpci",
+              "self-hosted",
+              "testing",
+              "unit-testing"
+            ]
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
         },
@@ -42,12 +70,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple docker-based continuous integration system",
+            "homepage": null,
             "id": 45815634,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2022-12-06T14:39:41Z",
+            "open_issues": 18,
             "owner": "lewbor",
             "repo": "simpleci",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "ci",
+              "continuous-deployment",
+              "continuous-integration",
+              "simpleci"
+            ]
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
         }
@@ -64,12 +102,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easing the building of vagrant boxes",
+            "homepage": null,
             "id": 1066222,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2018-09-17T07:21:35Z",
+            "open_issues": 104,
             "owner": "jedi4ever",
             "repo": "veewee",
-            "stars": 4263
+            "stars": 4263,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
         },
@@ -80,12 +123,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Terraform + Ansible + Docker Swarm boilerplate = DevOps on :fire::fire::fire: | Infrastructure as Code",
+            "homepage": null,
             "id": 218020487,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2025-02-06T08:50:52Z",
+            "open_issues": 9,
             "owner": "thomvaill",
             "repo": "tads-boilerplate",
-            "stars": 779
+            "stars": 779,
+            "topics": [
+              "ansible",
+              "bash",
+              "boilerplate",
+              "devops",
+              "docker",
+              "docker-swarm",
+              "hacktoberfest",
+              "iac",
+              "infrastructure-as-code",
+              "noops",
+              "tads",
+              "terraform",
+              "vagrant"
+            ]
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
         }
@@ -102,12 +164,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The simplest build tool on earth. An all-purpose build tool and a build file all in one. It's trying to be better than the usual  home-grown Shell hell.",
+            "homepage": null,
             "id": 139195792,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-29T12:28:47Z",
+            "open_issues": 2,
             "owner": "8gears",
             "repo": "do.sh",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "build",
+              "build-automation",
+              "build-script",
+              "build-system",
+              "build-tool",
+              "build-tools",
+              "make",
+              "makefile"
+            ]
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
         }
@@ -124,12 +200,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Automation solution for multi-platform. 多端自动化解决方案",
+            "homepage": "https://macacajs.github.io",
             "id": 53995946,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-09-18T13:23:18Z",
+            "open_issues": 64,
             "owner": "alibaba",
             "repo": "macaca",
-            "stars": 3184
+            "stars": 3184,
+            "topics": [
+              "android",
+              "automation",
+              "hybrid-apps",
+              "ios",
+              "macaca",
+              "testing",
+              "uitest"
+            ]
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
         }
@@ -146,12 +235,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.",
+            "homepage": "http://fpm.readthedocs.io/en/latest/",
             "id": 1217404,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T18:54:44Z",
+            "open_issues": 791,
             "owner": "jordansissel",
             "repo": "fpm",
-            "stars": 11499
+            "stars": 11500,
+            "topics": [
+              "packaging"
+            ]
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
         }
@@ -168,12 +264,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Large scale server deploys using BitTorrent and the BitTornado library (NOTE: project no longer maintained)",
+            "homepage": "http://twitter.com",
             "id": 481811,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2017-01-04T02:33:40Z",
+            "open_issues": 8,
             "owner": "lg",
             "repo": "murder",
-            "stars": 2514
+            "stars": 2514,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
         },
@@ -184,12 +285,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A single-command bittorrent distribution system, based on Twitter's Murder",
+            "homepage": null,
             "id": 1546219,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2016-10-21T06:16:30Z",
+            "open_issues": 6,
             "owner": "russss",
             "repo": "Herd",
-            "stars": 407
+            "stars": 407,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
         }
@@ -206,12 +312,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+            "homepage": "https://awesome-python.com/",
             "id": 21289110,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T04:08:40Z",
+            "open_issues": 19,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 316716
+            "stars": 316807,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "python",
+              "python-frameworks",
+              "python-libraries",
+              "python-tools"
+            ]
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
         },
@@ -222,12 +340,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.",
+            "homepage": null,
             "id": 16677706,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-03-26T23:45:17Z",
+            "open_issues": 270,
             "owner": "kahun",
             "repo": "awesome-sysadmin",
-            "stars": 24351
+            "stars": 24350,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
         },
@@ -238,12 +361,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!",
+            "homepage": null,
             "id": 21791812,
             "language": "Perl",
+            "license": "MIT",
             "last_commit": "2024-08-07T13:32:26Z",
+            "open_issues": 5,
             "owner": "hachiojipm",
             "repo": "awesome-perl",
-            "stars": 709
+            "stars": 709,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
         },
@@ -254,12 +382,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.",
+            "homepage": null,
             "id": 25191000,
             "language": null,
+            "license": null,
             "last_commit": "2014-10-11T02:55:54Z",
+            "open_issues": 0,
             "owner": "itech001",
             "repo": "awesome-shell",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
         }
@@ -276,12 +409,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+            "homepage": null,
             "id": 21737465,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-21T12:39:13Z",
+            "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500793
+            "stars": 500891,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "lists",
+              "resources",
+              "unicorns"
+            ]
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
         },
@@ -292,12 +436,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":whale: A curated list of Docker resources and projects",
+            "homepage": "https://average.joe.dev/awesome-docker/",
             "id": 24297122,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T17:04:16Z",
+            "open_issues": 25,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36735
+            "stars": 36736,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "container",
+              "docker",
+              "docker-api",
+              "docker-container",
+              "docker-deployment",
+              "docker-environment",
+              "docker-image",
+              "docker-machine",
+              "docker-monitoring",
+              "docker-registry",
+              "docker-security",
+              "docker-swarm",
+              "dockerfile",
+              "list",
+              "moby",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
         },
@@ -308,12 +476,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome awesomeness",
+            "homepage": null,
             "id": 21600440,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2024-06-02T22:46:41Z",
+            "open_issues": 61,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33633
+            "stars": 33634,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
         },
@@ -324,12 +497,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The list of continuous integration services and tools",
+            "homepage": "https://ligurio.github.io/awesome-ci/",
             "id": 25857175,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T13:23:55Z",
+            "open_issues": 20,
             "owner": "ligurio",
             "repo": "awesome-ci",
-            "stars": 4134
+            "stars": 4134,
+            "topics": [
+              "awesome",
+              "ci",
+              "comparison",
+              "continuous-integration",
+              "developer-tools",
+              "development",
+              "devops"
+            ]
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
         },
@@ -340,12 +526,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome curated lists of many topics.",
+            "homepage": null,
             "id": 21388604,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-07-31T23:19:05Z",
+            "open_issues": 25,
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3203
+            "stars": 3203,
+            "topics": [
+              "awesome",
+              "awesome-list"
+            ]
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
         },
@@ -356,12 +550,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.",
+            "homepage": null,
             "id": 25190811,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2017-06-26T08:36:23Z",
+            "open_issues": 0,
             "owner": "itech001",
             "repo": "awesome-sysadmin",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
         },
@@ -372,12 +571,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of Continuous Integration services",
+            "homepage": null,
             "id": 41528535,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2015-06-02T07:57:30Z",
+            "open_issues": 0,
             "owner": "cicdops",
             "repo": "Continuous-Integration-services",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
         }
@@ -386,15 +590,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:41:45.368Z",
+    "last_updated": "2026-08-29T04:28:07.892Z",
     "original_repository_info": {
       "archived": false,
+      "description": "continuous integration and continuous delivery",
+      "homepage": "http://www.theaiera.cn",
       "id": 27022152,
       "language": null,
+      "license": "GPL-2.0",
       "last_commit": "2026-04-14T12:29:54Z",
+      "open_issues": 32,
       "owner": "cicdops",
       "repo": "awesome-ciandcd",
-      "stars": 2009
+      "stars": 2009,
+      "topics": []
     },
     "original_repository_sha": "c5e6fcac6b728a6f865cfb9cd04c28d072aa85a0",
     "enhanced_repository": "enhansome/enhansome-ciandcd",
