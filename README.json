@@ -273,7 +273,7 @@
             "open_issues": 8,
             "owner": "lg",
             "repo": "murder",
-            "stars": 2513,
+            "stars": 2511,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
@@ -321,7 +321,7 @@
             "open_issues": 18,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 317105,
+            "stars": 317284,
             "topics": [
               "awesome",
               "awesome-list",
@@ -346,10 +346,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2024-03-26T23:45:17Z",
-            "open_issues": 270,
+            "open_issues": 271,
             "owner": "kahun",
             "repo": "awesome-sysadmin",
-            "stars": 24352,
+            "stars": 24349,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
@@ -418,7 +418,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 501286,
+            "stars": 501586,
             "topics": [
               "awesome",
               "awesome-list",
@@ -445,7 +445,7 @@
             "open_issues": 27,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36746,
+            "stars": 36752,
             "topics": [
               "awesome",
               "awesome-list",
@@ -485,7 +485,7 @@
             "open_issues": 62,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33638,
+            "stars": 33637,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T10:39:38.589Z",
+    "last_updated": "2026-08-31T11:49:16.811Z",
     "original_repository_info": {
       "archived": false,
       "description": "continuous integration and continuous delivery",
