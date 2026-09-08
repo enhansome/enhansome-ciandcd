@@ -49,13 +49,13 @@ The theory for continuous integration and continuous deliver
 * [ci/cd pipeline](https://semaphoreci.com/blog/cicd-pipeline)
 * [devopsdays](http://www.devopsdays.org)
 * [ci cheatsheet](https://dzone.com/refcardz/continuous-integration)
-* [devops\_roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 366,463 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-07
+* [devops\_roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 366,565 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-07
 
 ## Build And Release System
 
 The system for software build and release, continuous integration and continuous delivery
 
-* [Luigi](https://github.com/spotify/luigi) ⭐ 18,769 | 🐛 170 | 🌐 Python | 📅 2026-07-18 Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
+* [Luigi](https://github.com/spotify/luigi) ⭐ 18,770 | 🐛 170 | 🌐 Python | 📅 2026-07-18 Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 * [PHP Censor](https://github.com/php-censor/php-censor) ⭐ 687 | 🐛 23 | 🌐 PHP | 📅 2026-05-31 Open source self-hosted continuous integration server for PHP projects.
 * [SimpleCI](https://github.com/simpleci/simpleci) ⭐ 69 | 🐛 18 | 🌐 Java | 📅 2022-12-06 Docker-based self-hosted ci system. Supports distributed build cache, external providers (GCE), real-time build log, etc.
 * [Jenkins](http://jenkins-ci.org)  An extendable open source continuous integration server
@@ -226,7 +226,7 @@ Software testing coverage tools
 
 Software testing framework and tools
 
-* [Macaca](https://github.com/alibaba/macaca) ⭐ 3,184 | 🐛 64 | 📅 2022-09-18 Automation test solution for native, hybrid, mobile web and web application on mobile and desktop platforms
+* [Macaca](https://github.com/alibaba/macaca) ⭐ 3,183 | 🐛 64 | 📅 2022-09-18 Automation test solution for native, hybrid, mobile web and web application on mobile and desktop platforms
 * [Testingautomation](https://en.wikipedia.org/wiki/Test_automation)  test automation wiki page
 * [softwareqatest](http://www.softwareqatest.com) FAQ page
 * [qaforums](http://www.qaforums.com)  SQA Forums
@@ -284,7 +284,7 @@ Provision tools
 Secure tools
 
 * [Deepfence Enterprise](https://deepfence.io) - Full life cycle Cloud Native Workload Protection platform for kubernetes, virtual machines and serverless.
-* [Deepfence Threat Mapper](https://github.com/deepfence/ThreatMapper) ⭐ 5,322 | 🐛 144 | 🌐 TypeScript | 📅 2026-06-01 - Powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
+* [Deepfence Threat Mapper](https://github.com/deepfence/ThreatMapper) ⭐ 5,321 | 🐛 144 | 🌐 TypeScript | 📅 2026-06-01 - Powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 * [whitesource](https://www.whitesourcesoftware.com/) The simplest way to secure and manage open source components in your software.
 
 ## Web Server
@@ -302,8 +302,8 @@ Common used web server
 
 Linux shell, perl, python
 
-* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 318,970 | 🐛 20 | 🌐 Python | 📅 2026-09-01
-* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,342 | 🐛 273 | 📅 2024-03-26
+* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 319,221 | 🐛 20 | 🌐 Python | 📅 2026-09-01
+* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,344 | 🐛 272 | 📅 2024-03-26
 * [awesome-perl](https://github.com/hachiojipm/awesome-perl) ⭐ 709 | 🐛 5 | 🌐 Perl | 📅 2024-08-07
 * [awesome-shell](https://github.com/itech001/awesome-shell/blob/master/README.md) ⭐ 41 | 🐛 0 | 📅 2014-10-11
 
@@ -349,10 +349,10 @@ Conference and submit
 
 Other amazingly awesome lists can be found in
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,821 | 🐛 106 | 📅 2026-09-02
-* [awesome-docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,797 | 🐛 30 | 📅 2026-08-27\
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,099 | 🐛 106 | 📅 2026-09-02
+* [awesome-docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,801 | 🐛 30 | 📅 2026-08-27\
   \*[awesome-cicd](https://github.com/awsomecicd/awesomecicd.git) ⭐ 1 | 🐛 0 | 🌐 Groovy | 📅 2020-08-05
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,658 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,660 | 🐛 63 | 🌐 Ruby | 📅 2024-06-02
 * [ci tools compare 3](https://github.com/ligurio/Continuous-Integration-services) ⭐ 4,138 | 🐛 20 | 📅 2026-08-27
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,207 | 🐛 26 | 📅 2024-07-31
 * [sysadmin](https://github.com/itech001/awesome-sysadmin) ⭐ 17 | 🐛 0 | 📅 2017-06-26
@@ -366,4 +366,4 @@ my email is: <itech001@126.com>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._

@@ -19,7 +19,7 @@
             "open_issues": 170,
             "owner": "spotify",
             "repo": "luigi",
-            "stars": 18769,
+            "stars": 18770,
             "topics": [
               "hadoop",
               "luigi",
@@ -209,7 +209,7 @@
             "open_issues": 64,
             "owner": "alibaba",
             "repo": "macaca",
-            "stars": 3184,
+            "stars": 3183,
             "topics": [
               "android",
               "automation",
@@ -321,7 +321,7 @@
             "open_issues": 20,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 318970,
+            "stars": 319221,
             "topics": [
               "awesome",
               "awesome-list",
@@ -346,10 +346,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2024-03-26T23:45:17Z",
-            "open_issues": 273,
+            "open_issues": 272,
             "owner": "kahun",
             "repo": "awesome-sysadmin",
-            "stars": 24342,
+            "stars": 24344,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
@@ -418,7 +418,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 503821,
+            "stars": 504099,
             "topics": [
               "awesome",
               "awesome-list",
@@ -445,7 +445,7 @@
             "open_issues": 30,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36797,
+            "stars": 36801,
             "topics": [
               "awesome",
               "awesome-list",
@@ -482,10 +482,10 @@
             "language": "Ruby",
             "license": null,
             "last_commit": "2024-06-02T22:46:41Z",
-            "open_issues": 62,
+            "open_issues": 63,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33658,
+            "stars": 33660,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T10:42:07.647Z",
+    "last_updated": "2026-09-08T10:03:59.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "continuous integration and continuous delivery",
