@@ -49,7 +49,7 @@ The theory for continuous integration and continuous deliver
 * [ci/cd pipeline](https://semaphoreci.com/blog/cicd-pipeline)
 * [devopsdays](http://www.devopsdays.org)
 * [ci cheatsheet](https://dzone.com/refcardz/continuous-integration)
-* [devops\_roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 366,679 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-09
+* [devops\_roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 366,771 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-10
 
 ## Build And Release System
 
@@ -226,7 +226,7 @@ Software testing coverage tools
 
 Software testing framework and tools
 
-* [Macaca](https://github.com/alibaba/macaca) ⭐ 3,182 | 🐛 64 | 📅 2022-09-18 Automation test solution for native, hybrid, mobile web and web application on mobile and desktop platforms
+* [Macaca](https://github.com/alibaba/macaca) ⭐ 3,183 | 🐛 64 | 📅 2022-09-18 Automation test solution for native, hybrid, mobile web and web application on mobile and desktop platforms
 * [Testingautomation](https://en.wikipedia.org/wiki/Test_automation)  test automation wiki page
 * [softwareqatest](http://www.softwareqatest.com) FAQ page
 * [qaforums](http://www.qaforums.com)  SQA Forums
@@ -284,7 +284,7 @@ Provision tools
 Secure tools
 
 * [Deepfence Enterprise](https://deepfence.io) - Full life cycle Cloud Native Workload Protection platform for kubernetes, virtual machines and serverless.
-* [Deepfence Threat Mapper](https://github.com/deepfence/ThreatMapper) ⭐ 5,322 | 🐛 144 | 🌐 TypeScript | 📅 2026-06-01 - Powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
+* [Deepfence Threat Mapper](https://github.com/deepfence/ThreatMapper) ⭐ 5,321 | 🐛 144 | 🌐 TypeScript | 📅 2026-06-01 - Powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 * [whitesource](https://www.whitesourcesoftware.com/) The simplest way to secure and manage open source components in your software.
 
 ## Web Server
@@ -302,8 +302,8 @@ Common used web server
 
 Linux shell, perl, python
 
-* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 319,445 | 🐛 19 | 🌐 Python | 📅 2026-09-01
-* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,344 | 🐛 272 | 📅 2024-03-26
+* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 319,647 | 🐛 18 | 🌐 Python | 📅 2026-09-01
+* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,343 | 🐛 272 | 📅 2024-03-26
 * [awesome-perl](https://github.com/hachiojipm/awesome-perl) ⭐ 709 | 🐛 5 | 🌐 Perl | 📅 2024-08-07
 * [awesome-shell](https://github.com/itech001/awesome-shell/blob/master/README.md) ⭐ 41 | 🐛 0 | 📅 2014-10-11
 
@@ -349,12 +349,12 @@ Conference and submit
 
 Other amazingly awesome lists can be found in
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,394 | 🐛 106 | 📅 2026-09-02
-* [awesome-docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,800 | 🐛 30 | 📅 2026-08-27\
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,656 | 🐛 106 | 📅 2026-09-02
+* [awesome-docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,807 | 🐛 34 | 📅 2026-09-09\
   \*[awesome-cicd](https://github.com/awsomecicd/awesomecicd.git) ⭐ 1 | 🐛 0 | 🌐 Groovy | 📅 2020-08-05
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,659 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
-* [ci tools compare 3](https://github.com/ligurio/Continuous-Integration-services) ⭐ 4,138 | 🐛 20 | 📅 2026-08-27
-* [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,207 | 🐛 26 | 📅 2024-07-31
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,660 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
+* [ci tools compare 3](https://github.com/ligurio/Continuous-Integration-services) ⭐ 4,139 | 🐛 21 | 📅 2026-08-27
+* [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,206 | 🐛 26 | 📅 2024-07-31
 * [sysadmin](https://github.com/itech001/awesome-sysadmin) ⭐ 17 | 🐛 0 | 📅 2017-06-26
 * [ci tools compare2](https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md) ⭐ 1 | 🐛 0 | 📅 2015-06-02
 * [ci tools compare](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)
@@ -366,4 +366,4 @@ my email is: <itech001@126.com>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
