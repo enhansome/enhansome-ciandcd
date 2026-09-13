@@ -19,7 +19,7 @@
             "open_issues": 173,
             "owner": "spotify",
             "repo": "luigi",
-            "stars": 18772,
+            "stars": 18773,
             "topics": [
               "hadoop",
               "luigi",
@@ -318,10 +318,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T08:48:12Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 320131,
+            "stars": 320335,
             "topics": [
               "awesome",
               "awesome-list",
@@ -418,7 +418,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 505271,
+            "stars": 505570,
             "topics": [
               "awesome",
               "awesome-list",
@@ -441,11 +441,11 @@
             "id": 24297122,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T15:33:35Z",
-            "open_issues": 35,
+            "last_commit": "2026-09-12T10:37:31Z",
+            "open_issues": 31,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36809,
+            "stars": 36812,
             "topics": [
               "awesome",
               "awesome-list",
@@ -506,7 +506,7 @@
             "open_issues": 21,
             "owner": "ligurio",
             "repo": "awesome-ci",
-            "stars": 4144,
+            "stars": 4145,
             "topics": [
               "awesome",
               "ci",
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T09:33:45.441Z",
+    "last_updated": "2026-09-13T10:36:06.923Z",
     "original_repository_info": {
       "archived": false,
       "description": "continuous integration and continuous delivery",
@@ -602,7 +602,7 @@
       "open_issues": 32,
       "owner": "cicdops",
       "repo": "awesome-ciandcd",
-      "stars": 2011,
+      "stars": 2012,
       "topics": []
     },
     "original_repository_sha": "c5e6fcac6b728a6f865cfb9cd04c28d072aa85a0",
