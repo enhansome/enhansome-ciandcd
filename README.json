@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-07-18T11:15:46Z",
-            "open_issues": 176,
+            "open_issues": 178,
             "owner": "spotify",
             "repo": "luigi",
-            "stars": 18774,
+            "stars": 18775,
             "topics": [
               "hadoop",
               "luigi",
@@ -244,7 +244,7 @@
             "open_issues": 789,
             "owner": "jordansissel",
             "repo": "fpm",
-            "stars": 11506,
+            "stars": 11508,
             "topics": [
               "packaging"
             ]
@@ -318,10 +318,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-15T16:48:04Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 320961,
+            "stars": 321211,
             "topics": [
               "awesome",
               "awesome-list",
@@ -418,7 +418,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 506554,
+            "stars": 506946,
             "topics": [
               "awesome",
               "awesome-list",
@@ -445,7 +445,7 @@
             "open_issues": 32,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36831,
+            "stars": 36840,
             "topics": [
               "awesome",
               "awesome-list",
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T10:16:37.652Z",
+    "last_updated": "2026-09-17T10:24:34.849Z",
     "original_repository_info": {
       "archived": false,
       "description": "continuous integration and continuous delivery",
@@ -602,7 +602,7 @@
       "open_issues": 32,
       "owner": "cicdops",
       "repo": "awesome-ciandcd",
-      "stars": 2012,
+      "stars": 2011,
       "topics": []
     },
     "original_repository_sha": "c5e6fcac6b728a6f865cfb9cd04c28d072aa85a0",
