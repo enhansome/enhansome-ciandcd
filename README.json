@@ -321,7 +321,7 @@
             "open_issues": 26,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 321627,
+            "stars": 321820,
             "topics": [
               "awesome",
               "awesome-list",
@@ -349,7 +349,7 @@
             "open_issues": 273,
             "owner": "kahun",
             "repo": "awesome-sysadmin",
-            "stars": 24339,
+            "stars": 24338,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
@@ -418,7 +418,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 507664,
+            "stars": 508025,
             "topics": [
               "awesome",
               "awesome-list",
@@ -442,10 +442,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-09-12T10:37:31Z",
-            "open_issues": 35,
+            "open_issues": 37,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36849,
+            "stars": 36853,
             "topics": [
               "awesome",
               "awesome-list",
@@ -535,7 +535,7 @@
             "open_issues": 26,
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3208,
+            "stars": 3209,
             "topics": [
               "awesome",
               "awesome-list"
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T09:42:26.356Z",
+    "last_updated": "2026-09-20T10:04:48.654Z",
     "original_repository_info": {
       "archived": false,
       "description": "continuous integration and continuous delivery",
