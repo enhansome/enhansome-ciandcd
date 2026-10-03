@@ -19,7 +19,7 @@
             "open_issues": 178,
             "owner": "spotify",
             "repo": "luigi",
-            "stars": 18779,
+            "stars": 18778,
             "topics": [
               "hadoop",
               "luigi",
@@ -111,7 +111,7 @@
             "open_issues": 104,
             "owner": "jedi4ever",
             "repo": "veewee",
-            "stars": 4262,
+            "stars": 4261,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
@@ -244,7 +244,7 @@
             "open_issues": 790,
             "owner": "jordansissel",
             "repo": "fpm",
-            "stars": 11512,
+            "stars": 11513,
             "topics": [
               "packaging"
             ]
@@ -308,7 +308,7 @@
         {
           "node_type": "item",
           "title": "awesome-python",
-          "description": null,
+          "description": "vinta/awesome-python",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -317,11 +317,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T09:14:10Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-02T12:01:28Z",
+            "open_issues": 21,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 324614,
+            "stars": 324779,
             "topics": [
               "awesome",
               "awesome-list",
@@ -336,7 +336,7 @@
         {
           "node_type": "item",
           "title": "awesome-sysadmin",
-          "description": null,
+          "description": "kahun/awesome-sysadmin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -349,7 +349,7 @@
             "open_issues": 273,
             "owner": "kahun",
             "repo": "awesome-sysadmin",
-            "stars": 24353,
+            "stars": 24354,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
@@ -357,7 +357,7 @@
         {
           "node_type": "item",
           "title": "awesome-perl",
-          "description": null,
+          "description": "hachiojipm/awesome-perl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -378,7 +378,7 @@
         {
           "node_type": "item",
           "title": "awesome-shell",
-          "description": null,
+          "description": "itech001/awesome-shell",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -405,7 +405,7 @@
         {
           "node_type": "item",
           "title": "awesome",
-          "description": null,
+          "description": "sindresorhus/awesome",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -418,7 +418,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 513480,
+            "stars": 513795,
             "topics": [
               "awesome",
               "awesome-list",
@@ -442,10 +442,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T05:20:29Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36943,
+            "stars": 36949,
             "topics": [
               "awesome",
               "awesome-list",
@@ -472,7 +472,7 @@
         {
           "node_type": "item",
           "title": "awesome-awesomeness",
-          "description": null,
+          "description": "bayandin/awesome-awesomeness",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -493,7 +493,7 @@
         {
           "node_type": "item",
           "title": "ci tools compare 3",
-          "description": null,
+          "description": "ligurio/awesome-ci",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -506,7 +506,7 @@
             "open_issues": 23,
             "owner": "ligurio",
             "repo": "awesome-ci",
-            "stars": 4153,
+            "stars": 4154,
             "topics": [
               "awesome",
               "ci",
@@ -522,7 +522,7 @@
         {
           "node_type": "item",
           "title": "awesome-awesome",
-          "description": null,
+          "description": "emijrp/awesome-awesome",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -535,7 +535,7 @@
             "open_issues": 29,
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3217,
+            "stars": 3218,
             "topics": [
               "awesome",
               "awesome-list"
@@ -546,7 +546,7 @@
         {
           "node_type": "item",
           "title": "sysadmin",
-          "description": null,
+          "description": "itech001/awesome-sysadmin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -567,7 +567,7 @@
         {
           "node_type": "item",
           "title": "ci tools compare2",
-          "description": null,
+          "description": "cicdops/Continuous-Integration-services",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:19:51.803Z",
+    "last_updated": "2026-10-03T04:36:22.849Z",
     "original_repository_info": {
       "archived": false,
       "description": "continuous integration and continuous delivery",
