@@ -19,7 +19,7 @@
             "open_issues": 178,
             "owner": "spotify",
             "repo": "luigi",
-            "stars": 18778,
+            "stars": 18779,
             "topics": [
               "hadoop",
               "luigi",
@@ -111,7 +111,7 @@
             "open_issues": 104,
             "owner": "jedi4ever",
             "repo": "veewee",
-            "stars": 4261,
+            "stars": 4260,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
@@ -321,7 +321,7 @@
             "open_issues": 21,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 324779,
+            "stars": 324820,
             "topics": [
               "awesome",
               "awesome-list",
@@ -349,7 +349,7 @@
             "open_issues": 273,
             "owner": "kahun",
             "repo": "awesome-sysadmin",
-            "stars": 24354,
+            "stars": 24355,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
@@ -418,7 +418,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 513795,
+            "stars": 513882,
             "topics": [
               "awesome",
               "awesome-list",
@@ -445,7 +445,7 @@
             "open_issues": 47,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36949,
+            "stars": 36952,
             "topics": [
               "awesome",
               "awesome-list",
@@ -485,7 +485,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33696,
+            "stars": 33695,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:36:22.849Z",
+    "last_updated": "2026-10-03T10:35:24.480Z",
     "original_repository_info": {
       "archived": false,
       "description": "continuous integration and continuous delivery",
