@@ -321,7 +321,7 @@
             "open_issues": 19,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 325514,
+            "stars": 325523,
             "topics": [
               "awesome",
               "awesome-list",
@@ -418,7 +418,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 515367,
+            "stars": 515398,
             "topics": [
               "awesome",
               "awesome-list",
@@ -445,7 +445,7 @@
             "open_issues": 47,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36970,
+            "stars": 36971,
             "topics": [
               "awesome",
               "awesome-list",
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:51:33.015Z",
+    "last_updated": "2026-10-06T12:12:40.214Z",
     "original_repository_info": {
       "archived": false,
       "description": "continuous integration and continuous delivery",
