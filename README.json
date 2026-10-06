@@ -19,7 +19,7 @@
             "open_issues": 180,
             "owner": "spotify",
             "repo": "luigi",
-            "stars": 18782,
+            "stars": 18781,
             "topics": [
               "hadoop",
               "luigi",
@@ -321,7 +321,7 @@
             "open_issues": 19,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 325296,
+            "stars": 325514,
             "topics": [
               "awesome",
               "awesome-list",
@@ -415,10 +415,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-02T02:10:47Z",
-            "open_issues": 107,
+            "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 514919,
+            "stars": 515367,
             "topics": [
               "awesome",
               "awesome-list",
@@ -445,7 +445,7 @@
             "open_issues": 47,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36966,
+            "stars": 36970,
             "topics": [
               "awesome",
               "awesome-list",
@@ -485,7 +485,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33701,
+            "stars": 33705,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
@@ -535,7 +535,7 @@
             "open_issues": 29,
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3220,
+            "stars": 3221,
             "topics": [
               "awesome",
               "awesome-list"
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T12:36:01.207Z",
+    "last_updated": "2026-10-06T10:51:33.015Z",
     "original_repository_info": {
       "archived": false,
       "description": "continuous integration and continuous delivery",
@@ -602,7 +602,7 @@
       "open_issues": 36,
       "owner": "cicdops",
       "repo": "awesome-ciandcd",
-      "stars": 2011,
+      "stars": 2012,
       "topics": []
     },
     "original_repository_sha": "c5e6fcac6b728a6f865cfb9cd04c28d072aa85a0",
