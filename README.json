@@ -317,11 +317,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T11:10:01Z",
-            "open_issues": 23,
+            "last_commit": "2026-10-11T03:35:50Z",
+            "open_issues": 24,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 326260,
+            "stars": 326507,
             "topics": [
               "awesome",
               "awesome-list",
@@ -349,7 +349,7 @@
             "open_issues": 273,
             "owner": "kahun",
             "repo": "awesome-sysadmin",
-            "stars": 24357,
+            "stars": 24356,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
@@ -415,10 +415,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-02T02:10:47Z",
-            "open_issues": 106,
+            "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 517004,
+            "stars": 517458,
             "topics": [
               "awesome",
               "awesome-list",
@@ -445,7 +445,7 @@
             "open_issues": 50,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 37004,
+            "stars": 37010,
             "topics": [
               "awesome",
               "awesome-list",
@@ -485,7 +485,7 @@
             "open_issues": 64,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33715,
+            "stars": 33717,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
@@ -535,7 +535,7 @@
             "open_issues": 26,
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3225,
+            "stars": 3226,
             "topics": [
               "awesome",
               "awesome-list"
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T11:21:13.755Z",
+    "last_updated": "2026-10-11T11:35:04.334Z",
     "original_repository_info": {
       "archived": false,
       "description": "continuous integration and continuous delivery",
