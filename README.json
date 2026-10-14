@@ -19,7 +19,7 @@
             "open_issues": 183,
             "owner": "spotify",
             "repo": "luigi",
-            "stars": 18782,
+            "stars": 18783,
             "topics": [
               "hadoop",
               "luigi",
@@ -46,7 +46,7 @@
             "open_issues": 23,
             "owner": "php-censor",
             "repo": "php-censor",
-            "stars": 687,
+            "stars": 686,
             "topics": [
               "ci",
               "continuous-integration",
@@ -132,7 +132,7 @@
             "open_issues": 9,
             "owner": "thomvaill",
             "repo": "tads-boilerplate",
-            "stars": 779,
+            "stars": 780,
             "topics": [
               "ansible",
               "bash",
@@ -209,7 +209,7 @@
             "open_issues": 64,
             "owner": "alibaba",
             "repo": "macaca",
-            "stars": 3184,
+            "stars": 3185,
             "topics": [
               "android",
               "automation",
@@ -318,10 +318,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-12T10:22:02Z",
-            "open_issues": 17,
+            "open_issues": 19,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 327059,
+            "stars": 327293,
             "topics": [
               "awesome",
               "awesome-list",
@@ -349,7 +349,7 @@
             "open_issues": 273,
             "owner": "kahun",
             "repo": "awesome-sysadmin",
-            "stars": 24352,
+            "stars": 24351,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
@@ -418,7 +418,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 518418,
+            "stars": 518853,
             "topics": [
               "awesome",
               "awesome-list",
@@ -445,7 +445,7 @@
             "open_issues": 52,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 37025,
+            "stars": 37032,
             "topics": [
               "awesome",
               "awesome-list",
@@ -485,7 +485,7 @@
             "open_issues": 64,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33721,
+            "stars": 33723,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
@@ -506,7 +506,7 @@
             "open_issues": 23,
             "owner": "ligurio",
             "repo": "awesome-ci",
-            "stars": 4163,
+            "stars": 4164,
             "topics": [
               "awesome",
               "ci",
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T12:55:57.005Z",
+    "last_updated": "2026-10-14T10:35:07.216Z",
     "original_repository_info": {
       "archived": false,
       "description": "continuous integration and continuous delivery",
