@@ -49,7 +49,7 @@ The theory for continuous integration and continuous deliver
 * [ci/cd pipeline](https://semaphoreci.com/blog/cicd-pipeline)
 * [devopsdays](http://www.devopsdays.org)
 * [ci cheatsheet](https://dzone.com/refcardz/continuous-integration)
-* [devops\_roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 369,844 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-19
+* [devops\_roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 369,954 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-19
 
 ## Build And Release System
 
@@ -226,7 +226,7 @@ Software testing coverage tools
 
 Software testing framework and tools
 
-* [Macaca](https://github.com/alibaba/macaca) ⭐ 3,184 | 🐛 64 | 📅 2022-09-18 Automation test solution for native, hybrid, mobile web and web application on mobile and desktop platforms
+* [Macaca](https://github.com/alibaba/macaca) ⭐ 3,183 | 🐛 64 | 📅 2022-09-18 Automation test solution for native, hybrid, mobile web and web application on mobile and desktop platforms
 * [Testingautomation](https://en.wikipedia.org/wiki/Test_automation)  test automation wiki page
 * [softwareqatest](http://www.softwareqatest.com) FAQ page
 * [qaforums](http://www.qaforums.com)  SQA Forums
@@ -302,8 +302,8 @@ Common used web server
 
 Linux shell, perl, python
 
-* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 328,603 | 🐛 16 | 🌐 Python | 📅 2026-10-19
-* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,352 | 🐛 272 | 📅 2024-03-26
+* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 328,860 | 🐛 16 | 🌐 Python | 📅 2026-10-19
+* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,352 | 🐛 273 | 📅 2024-03-26
 * [awesome-perl](https://github.com/hachiojipm/awesome-perl) ⭐ 711 | 🐛 6 | 🌐 Perl | 📅 2024-08-07
 * [awesome-shell](https://github.com/itech001/awesome-shell/blob/master/README.md) ⭐ 41 | 🐛 0 | 📅 2014-10-11
 
@@ -349,12 +349,12 @@ Conference and submit
 
 Other amazingly awesome lists can be found in
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,208 | 🐛 105 | 📅 2026-09-02
-* [awesome-docker](https://github.com/veggiemonk/awesome-docker) ⭐ 37,068 | 🐛 58 | 📅 2026-10-14\
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,673 | 🐛 105 | 📅 2026-09-02
+* [awesome-docker](https://github.com/veggiemonk/awesome-docker) ⭐ 37,071 | 🐛 59 | 📅 2026-10-14\
   \*[awesome-cicd](https://github.com/awsomecicd/awesomecicd.git) ⭐ 1 | 🐛 0 | 🌐 Groovy | 📅 2020-08-05
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,731 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02
-* [ci tools compare 3](https://github.com/ligurio/Continuous-Integration-services) ⭐ 4,170 | 🐛 23 | 📅 2026-10-06
-* [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,231 | 🐛 26 | 📅 2024-07-31
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,733 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02
+* [ci tools compare 3](https://github.com/ligurio/Continuous-Integration-services) ⭐ 4,171 | 🐛 23 | 📅 2026-10-06
+* [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,233 | 🐛 26 | 📅 2024-07-31
 * [sysadmin](https://github.com/itech001/awesome-sysadmin) ⭐ 17 | 🐛 0 | 📅 2017-06-26
 * [ci tools compare2](https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md) ⭐ 1 | 🐛 0 | 📅 2015-06-02
 * [ci tools compare](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)
@@ -366,4 +366,4 @@ my email is: <itech001@126.com>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
