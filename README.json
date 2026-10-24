@@ -209,7 +209,7 @@
             "open_issues": 64,
             "owner": "alibaba",
             "repo": "macaca",
-            "stars": 3182,
+            "stars": 3181,
             "topics": [
               "android",
               "automation",
@@ -244,7 +244,7 @@
             "open_issues": 789,
             "owner": "jordansissel",
             "repo": "fpm",
-            "stars": 11513,
+            "stars": 11512,
             "topics": [
               "packaging"
             ]
@@ -318,10 +318,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-22T19:52:53Z",
-            "open_issues": 19,
+            "open_issues": 18,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 329593,
+            "stars": 329832,
             "topics": [
               "awesome",
               "awesome-list",
@@ -349,7 +349,7 @@
             "open_issues": 274,
             "owner": "kahun",
             "repo": "awesome-sysadmin",
-            "stars": 24350,
+            "stars": 24349,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
@@ -418,7 +418,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 523367,
+            "stars": 523844,
             "topics": [
               "awesome",
               "awesome-list",
@@ -442,10 +442,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-14T20:59:56Z",
-            "open_issues": 64,
+            "open_issues": 65,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 37093,
+            "stars": 37097,
             "topics": [
               "awesome",
               "awesome-list",
@@ -503,7 +503,7 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-10-06T14:59:44Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "ligurio",
             "repo": "awesome-ci",
             "stars": 4172,
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T10:28:55.737Z",
+    "last_updated": "2026-10-24T09:46:19.235Z",
     "original_repository_info": {
       "archived": false,
       "description": "continuous integration and continuous delivery",
