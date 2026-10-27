@@ -19,7 +19,7 @@
             "open_issues": 194,
             "owner": "spotify",
             "repo": "luigi",
-            "stars": 18783,
+            "stars": 18784,
             "topics": [
               "hadoop",
               "luigi",
@@ -318,10 +318,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-26T04:44:34Z",
-            "open_issues": 19,
+            "open_issues": 18,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 330363,
+            "stars": 330572,
             "topics": [
               "awesome",
               "awesome-list",
@@ -418,7 +418,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 524908,
+            "stars": 525393,
             "topics": [
               "awesome",
               "awesome-list",
@@ -442,10 +442,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-14T20:59:56Z",
-            "open_issues": 67,
+            "open_issues": 70,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 37109,
+            "stars": 37115,
             "topics": [
               "awesome",
               "awesome-list",
@@ -485,7 +485,7 @@
             "open_issues": 64,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33748,
+            "stars": 33750,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
@@ -535,7 +535,7 @@
             "open_issues": 26,
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3237,
+            "stars": 3239,
             "topics": [
               "awesome",
               "awesome-list"
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T11:30:50.656Z",
+    "last_updated": "2026-10-27T10:56:33.968Z",
     "original_repository_info": {
       "archived": false,
       "description": "continuous integration and continuous delivery",
@@ -602,7 +602,7 @@
       "open_issues": 36,
       "owner": "cicdops",
       "repo": "awesome-ciandcd",
-      "stars": 2014,
+      "stars": 2015,
       "topics": []
     },
     "original_repository_sha": "c5e6fcac6b728a6f865cfb9cd04c28d072aa85a0",
