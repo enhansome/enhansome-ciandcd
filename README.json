@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-14T14:29:59Z",
-            "open_issues": 194,
+            "open_issues": 195,
             "owner": "spotify",
             "repo": "luigi",
             "stars": 18781,
@@ -321,7 +321,7 @@
             "open_issues": 19,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 333114,
+            "stars": 333319,
             "topics": [
               "awesome",
               "awesome-list",
@@ -418,7 +418,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 532824,
+            "stars": 533537,
             "topics": [
               "awesome",
               "awesome-list",
@@ -445,7 +445,7 @@
             "open_issues": 75,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 37190,
+            "stars": 37195,
             "topics": [
               "awesome",
               "awesome-list",
@@ -485,7 +485,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33771,
+            "stars": 33774,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T11:54:45.649Z",
+    "last_updated": "2026-11-08T12:10:11.735Z",
     "original_repository_info": {
       "archived": false,
       "description": "continuous integration and continuous delivery",
