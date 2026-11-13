@@ -49,13 +49,13 @@ The theory for continuous integration and continuous deliver
 * [ci/cd pipeline](https://semaphoreci.com/blog/cicd-pipeline)
 * [devopsdays](http://www.devopsdays.org)
 * [ci cheatsheet](https://dzone.com/refcardz/continuous-integration)
-* [devops\_roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 371,895 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-12
+* [devops\_roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 371,942 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-13
 
 ## Build And Release System
 
 The system for software build and release, continuous integration and continuous delivery
 
-* [Luigi](https://github.com/spotify/luigi) ⭐ 18,784 | 🐛 195 | 🌐 Python | 📅 2026-10-14 Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
+* [Luigi](https://github.com/spotify/luigi) ⭐ 18,787 | 🐛 195 | 🌐 Python | 📅 2026-10-14 Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 * [PHP Censor](https://github.com/php-censor/php-censor) ⭐ 687 | 🐛 24 | 🌐 PHP | 📅 2026-05-31 Open source self-hosted continuous integration server for PHP projects.
 * [SimpleCI](https://github.com/simpleci/simpleci) ⭐ 69 | 🐛 18 | 🌐 Java | 📅 2022-12-06 Docker-based self-hosted ci system. Supports distributed build cache, external providers (GCE), real-time build log, etc.
 * [Jenkins](http://jenkins-ci.org)  An extendable open source continuous integration server
@@ -302,9 +302,9 @@ Common used web server
 
 Linux shell, perl, python
 
-* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 334,227 | 🐛 24 | 🌐 Python | 📅 2026-11-08
-* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,357 | 🐛 274 | 📅 2024-03-26
-* [awesome-perl](https://github.com/hachiojipm/awesome-perl) ⭐ 713 | 🐛 6 | 🌐 Perl | 📅 2024-08-07
+* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 334,453 | 🐛 23 | 🌐 Python | 📅 2026-11-13
+* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,356 | 🐛 274 | 📅 2024-03-26
+* [awesome-perl](https://github.com/hachiojipm/awesome-perl) ⭐ 712 | 🐛 6 | 🌐 Perl | 📅 2024-08-07
 * [awesome-shell](https://github.com/itech001/awesome-shell/blob/master/README.md) ⭐ 41 | 🐛 0 | 📅 2014-10-11
 
 ## Applications And Container
@@ -349,12 +349,12 @@ Conference and submit
 
 Other amazingly awesome lists can be found in
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,691 | 🐛 103 | 📅 2026-09-02
-* [awesome-docker](https://github.com/veggiemonk/awesome-docker) ⭐ 37,223 | 🐛 80 | 📅 2026-11-12\
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,225 | 🐛 103 | 📅 2026-09-02
+* [awesome-docker](https://github.com/veggiemonk/awesome-docker) ⭐ 37,229 | 🐛 79 | 📅 2026-11-12\
   \*[awesome-cicd](https://github.com/awsomecicd/awesomecicd.git) ⭐ 1 | 🐛 0 | 🌐 Groovy | 📅 2020-08-05
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,783 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
-* [ci tools compare 3](https://github.com/ligurio/Continuous-Integration-services) ⭐ 4,182 | 🐛 31 | 📅 2026-10-06
-* [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,244 | 🐛 27 | 📅 2024-07-31
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,785 | 🐛 66 | 🌐 Ruby | 📅 2024-06-02
+* [ci tools compare 3](https://github.com/ligurio/Continuous-Integration-services) ⭐ 4,181 | 🐛 32 | 📅 2026-10-06
+* [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,246 | 🐛 28 | 📅 2024-07-31
 * [sysadmin](https://github.com/itech001/awesome-sysadmin) ⭐ 17 | 🐛 0 | 📅 2017-06-26
 * [ci tools compare2](https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md) ⭐ 1 | 🐛 0 | 📅 2015-06-02
 * [ci tools compare](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)
@@ -366,4 +366,4 @@ my email is: <itech001@126.com>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._

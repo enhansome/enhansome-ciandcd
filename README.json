@@ -19,7 +19,7 @@
             "open_issues": 195,
             "owner": "spotify",
             "repo": "luigi",
-            "stars": 18784,
+            "stars": 18787,
             "topics": [
               "hadoop",
               "luigi",
@@ -317,11 +317,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-08T14:42:33Z",
-            "open_issues": 24,
+            "last_commit": "2026-11-13T05:14:16Z",
+            "open_issues": 23,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 334227,
+            "stars": 334453,
             "topics": [
               "awesome",
               "awesome-list",
@@ -349,7 +349,7 @@
             "open_issues": 274,
             "owner": "kahun",
             "repo": "awesome-sysadmin",
-            "stars": 24357,
+            "stars": 24356,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
@@ -370,7 +370,7 @@
             "open_issues": 6,
             "owner": "hachiojipm",
             "repo": "awesome-perl",
-            "stars": 713,
+            "stars": 712,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
@@ -418,7 +418,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 535691,
+            "stars": 536225,
             "topics": [
               "awesome",
               "awesome-list",
@@ -442,10 +442,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-11-12T09:05:02Z",
-            "open_issues": 80,
+            "open_issues": 79,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 37223,
+            "stars": 37229,
             "topics": [
               "awesome",
               "awesome-list",
@@ -482,10 +482,10 @@
             "language": "Ruby",
             "license": null,
             "last_commit": "2024-06-02T22:46:41Z",
-            "open_issues": 65,
+            "open_issues": 66,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33783,
+            "stars": 33785,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
@@ -503,10 +503,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-10-06T14:59:44Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "ligurio",
             "repo": "awesome-ci",
-            "stars": 4182,
+            "stars": 4181,
             "topics": [
               "awesome",
               "ci",
@@ -532,10 +532,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-07-31T23:19:05Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3244,
+            "stars": 3246,
             "topics": [
               "awesome",
               "awesome-list"
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T13:58:08.725Z",
+    "last_updated": "2026-11-13T13:24:44.128Z",
     "original_repository_info": {
       "archived": false,
       "description": "continuous integration and continuous delivery",
