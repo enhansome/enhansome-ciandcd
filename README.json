@@ -19,7 +19,7 @@
             "open_issues": 195,
             "owner": "spotify",
             "repo": "luigi",
-            "stars": 18787,
+            "stars": 18788,
             "topics": [
               "hadoop",
               "luigi",
@@ -111,7 +111,7 @@
             "open_issues": 104,
             "owner": "jedi4ever",
             "repo": "veewee",
-            "stars": 4257,
+            "stars": 4256,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
@@ -321,7 +321,7 @@
             "open_issues": 23,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 334453,
+            "stars": 334669,
             "topics": [
               "awesome",
               "awesome-list",
@@ -415,10 +415,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-02T02:10:47Z",
-            "open_issues": 103,
+            "open_issues": 104,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 536225,
+            "stars": 536672,
             "topics": [
               "awesome",
               "awesome-list",
@@ -445,7 +445,7 @@
             "open_issues": 79,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 37229,
+            "stars": 37234,
             "topics": [
               "awesome",
               "awesome-list",
@@ -485,7 +485,7 @@
             "open_issues": 66,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33785,
+            "stars": 33786,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
@@ -506,7 +506,7 @@
             "open_issues": 32,
             "owner": "ligurio",
             "repo": "awesome-ci",
-            "stars": 4181,
+            "stars": 4182,
             "topics": [
               "awesome",
               "ci",
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T13:24:44.128Z",
+    "last_updated": "2026-11-14T12:29:00.405Z",
     "original_repository_info": {
       "archived": false,
       "description": "continuous integration and continuous delivery",
