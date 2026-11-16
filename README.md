@@ -49,7 +49,7 @@ The theory for continuous integration and continuous deliver
 * [ci/cd pipeline](https://semaphoreci.com/blog/cicd-pipeline)
 * [devopsdays](http://www.devopsdays.org)
 * [ci cheatsheet](https://dzone.com/refcardz/continuous-integration)
-* [devops\_roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 372,049 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-13
+* [devops\_roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 372,131 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-16
 
 ## Build And Release System
 
@@ -239,7 +239,7 @@ Software testing framework and tools
 
 The tools for software package and installation
 
-* [fpm](https://github.com/jordansissel/fpm) ⭐ 11,517 | 🐛 783 | 🌐 Ruby | 📅 2026-09-14 Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
+* [fpm](https://github.com/jordansissel/fpm) ⭐ 11,517 | 🐛 782 | 🌐 Ruby | 📅 2026-09-14 Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
 * [installshield](http://www.installshield.com)  World's #1 Software Installation Solution-Build Reliable MSI Installers for Windows Applications
 * [NSIS](http://nsis.sourceforge.net/Main_Page)  NSIS (Nullsoft Scriptable Install System) is a professional open source system to create Windows installers. It is designed to be as small and flexible as possible and is therefore very suitable for internet distribution
 * [rpm](http://rpm.org)  The RPM Package Manager (RPM) is a powerful command line driven package management system capable of installing, uninstalling, verifying, querying, and updating computer software packages
@@ -302,8 +302,8 @@ Common used web server
 
 Linux shell, perl, python
 
-* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 334,887 | 🐛 23 | 🌐 Python | 📅 2026-11-14
-* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,356 | 🐛 274 | 📅 2024-03-26
+* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 335,144 | 🐛 26 | 🌐 Python | 📅 2026-11-16
+* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,360 | 🐛 274 | 📅 2024-03-26
 * [awesome-perl](https://github.com/hachiojipm/awesome-perl) ⭐ 712 | 🐛 6 | 🌐 Perl | 📅 2024-08-07
 * [awesome-shell](https://github.com/itech001/awesome-shell/blob/master/README.md) ⭐ 41 | 🐛 0 | 📅 2014-10-11
 
@@ -349,11 +349,11 @@ Conference and submit
 
 Other amazingly awesome lists can be found in
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 537,221 | 🐛 104 | 📅 2026-09-02
-* [awesome-docker](https://github.com/veggiemonk/awesome-docker) ⭐ 37,235 | 🐛 82 | 📅 2026-11-12\
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 537,773 | 🐛 104 | 📅 2026-09-02
+* [awesome-docker](https://github.com/veggiemonk/awesome-docker) ⭐ 37,244 | 🐛 83 | 📅 2026-11-12\
   \*[awesome-cicd](https://github.com/awsomecicd/awesomecicd.git) ⭐ 1 | 🐛 0 | 🌐 Groovy | 📅 2020-08-05
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,787 | 🐛 66 | 🌐 Ruby | 📅 2024-06-02
-* [ci tools compare 3](https://github.com/ligurio/Continuous-Integration-services) ⭐ 4,182 | 🐛 33 | 📅 2026-10-06
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,790 | 🐛 66 | 🌐 Ruby | 📅 2024-06-02
+* [ci tools compare 3](https://github.com/ligurio/Continuous-Integration-services) ⭐ 4,182 | 🐛 35 | 📅 2026-10-06
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,246 | 🐛 28 | 📅 2024-07-31
 * [sysadmin](https://github.com/itech001/awesome-sysadmin) ⭐ 17 | 🐛 0 | 📅 2017-06-26
 * [ci tools compare2](https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md) ⭐ 1 | 🐛 0 | 📅 2015-06-02
@@ -366,4 +366,4 @@ my email is: <itech001@126.com>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
