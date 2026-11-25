@@ -49,13 +49,13 @@ The theory for continuous integration and continuous deliver
 * [ci/cd pipeline](https://semaphoreci.com/blog/cicd-pipeline)
 * [devopsdays](http://www.devopsdays.org)
 * [ci cheatsheet](https://dzone.com/refcardz/continuous-integration)
-* [devops\_roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 372,679 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-24
+* [devops\_roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 372,755 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-25
 
 ## Build And Release System
 
 The system for software build and release, continuous integration and continuous delivery
 
-* [Luigi](https://github.com/spotify/luigi) ⭐ 18,794 | 🐛 196 | 🌐 Python | 📅 2026-11-23 Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
+* [Luigi](https://github.com/spotify/luigi) ⭐ 18,797 | 🐛 196 | 🌐 Python | 📅 2026-11-23 Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 * [PHP Censor](https://github.com/php-censor/php-censor) ⭐ 686 | 🐛 24 | 🌐 PHP | 📅 2026-11-15 Open source self-hosted continuous integration server for PHP projects.
 * [SimpleCI](https://github.com/simpleci/simpleci) ⭐ 69 | 🐛 18 | 🌐 Java | 📅 2022-12-06 Docker-based self-hosted ci system. Supports distributed build cache, external providers (GCE), real-time build log, etc.
 * [Jenkins](http://jenkins-ci.org)  An extendable open source continuous integration server
@@ -302,8 +302,8 @@ Common used web server
 
 Linux shell, perl, python
 
-* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 336,864 | 🐛 23 | 🌐 Python | 📅 2026-11-17
-* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,367 | 🐛 275 | 📅 2024-03-26
+* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 337,070 | 🐛 25 | 🌐 Python | 📅 2026-11-17
+* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,369 | 🐛 274 | 📅 2024-03-26
 * [awesome-perl](https://github.com/hachiojipm/awesome-perl) ⭐ 713 | 🐛 5 | 🌐 Perl | 📅 2024-08-07
 * [awesome-shell](https://github.com/itech001/awesome-shell/blob/master/README.md) ⭐ 41 | 🐛 0 | 📅 2014-10-11
 
@@ -349,8 +349,8 @@ Conference and submit
 
 Other amazingly awesome lists can be found in
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 542,134 | 🐛 103 | 📅 2026-09-02
-* [awesome-docker](https://github.com/veggiemonk/awesome-docker) ⭐ 37,291 | 🐛 96 | 📅 2026-11-18\
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 542,668 | 🐛 103 | 📅 2026-09-02
+* [awesome-docker](https://github.com/veggiemonk/awesome-docker) ⭐ 37,297 | 🐛 101 | 📅 2026-11-25\
   \*[awesome-cicd](https://github.com/awsomecicd/awesomecicd.git) ⭐ 1 | 🐛 0 | 🌐 Groovy | 📅 2020-08-05
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,808 | 🐛 67 | 🌐 Ruby | 📅 2024-06-02
 * [ci tools compare 3](https://github.com/ligurio/Continuous-Integration-services) ⭐ 4,190 | 🐛 33 | 📅 2026-10-06
@@ -366,4 +366,4 @@ my email is: <itech001@126.com>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._

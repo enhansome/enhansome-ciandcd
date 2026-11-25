@@ -19,7 +19,7 @@
             "open_issues": 196,
             "owner": "spotify",
             "repo": "luigi",
-            "stars": 18794,
+            "stars": 18797,
             "topics": [
               "hadoop",
               "luigi",
@@ -318,10 +318,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-17T10:02:01Z",
-            "open_issues": 23,
+            "open_issues": 25,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 336864,
+            "stars": 337070,
             "topics": [
               "awesome",
               "awesome-list",
@@ -346,10 +346,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2024-03-26T23:45:17Z",
-            "open_issues": 275,
+            "open_issues": 274,
             "owner": "kahun",
             "repo": "awesome-sysadmin",
-            "stars": 24367,
+            "stars": 24369,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:45.368Z"
@@ -418,7 +418,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 542134,
+            "stars": 542668,
             "topics": [
               "awesome",
               "awesome-list",
@@ -441,11 +441,11 @@
             "id": 24297122,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T15:33:44Z",
-            "open_issues": 96,
+            "last_commit": "2026-11-25T15:33:51Z",
+            "open_issues": 101,
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 37291,
+            "stars": 37297,
             "topics": [
               "awesome",
               "awesome-list",
@@ -590,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T16:20:54.239Z",
+    "last_updated": "2026-11-25T16:01:22.200Z",
     "original_repository_info": {
       "archived": false,
       "description": "continuous integration and continuous delivery",
